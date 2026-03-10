@@ -55,11 +55,7 @@ I enjoy building scalable applications, learning new technologies, and sharing k
 
 ## 🌐 Live Portfolio
 
-(Add your deployed portfolio link here)
-
-Example:
-
-https://your-portfolio-site.com
+https://syed-amir-pf.vercel.app/
 
 ---
 
